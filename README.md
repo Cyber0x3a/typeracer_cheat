@@ -5,12 +5,10 @@
 <p align="center">
 <a href="#tech">Technologies</a>
 <a href="#started">Getting Started</a>
-<a href="#colab">Collaborators</a>
-<a href="#contribute">Contribute</a> 
 </p>
 
 
-<p align="center">This project uses python to automate the writing process and makes your opponents cry for racing with you</p>
+<p align="center">This project uses Python to automate the writing process and makes your opponents cry for racing with you</p>
 
 
 <p align="center">
@@ -30,7 +28,7 @@ You can simply download the binary for your windows using release section or if 
 
 <h3>Prerequisites</h3>
 
-Here you list all prerequisites necessary for running your project. For example:
+Here you list all the prerequisites necessary for running your project. For example:
 
 - [Python](https://python.org/)
 - [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/install.html) 
@@ -76,8 +74,10 @@ copy and paste the code to the script hit Enter and click on the TypeWriter webs
 [📝 How to create a Pull Request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request)
 
 Todo:
-- [ ] Add human like pattern
+- [ ] Add some colors to the CLI
+- [ ] Add human-like pattern
 - [ ] Add OpenCV text detection
 - [ ] Choosing the writing speed and accuracy
 - [ ] Automatically fetch the text to write
-- [ ] Add support for Linux based OS
+- [ ] Add support for Linux-based OS
+      
