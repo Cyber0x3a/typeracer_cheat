@@ -14,7 +14,7 @@
 
 
 <p align="center">
-<a href="https://github.com/ShaanCoding">📱 Visit this Project</a>
+<a href="https://github.com/Cyber0x3a/typeracer_cheat">📱 Visit this Project</a>
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
