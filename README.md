@@ -80,3 +80,4 @@ Todo:
 - [ ] Add OpenCV text detection
 - [ ] Choosing the writing speed and accuracy
 - [ ] Automatically fetch the text to write
+- [ ] Add support for Linux based OS
