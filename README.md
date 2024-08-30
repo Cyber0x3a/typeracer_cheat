@@ -19,7 +19,7 @@
 
 <h2 id="technologies">💻 Technologies</h2>
 
-- Technologies used
+__Technologies used__
 - Python
 - OpenCV(in next update)
 
