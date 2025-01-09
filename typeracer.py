@@ -14,3 +14,6 @@ for i in writing_text_list:
         pyautogui.press(j)
     pyautogui.press(" ")
 system('cls')
+
+
+#add new features soon
