@@ -19,7 +19,7 @@
 
 __Technologies used__
 - Python
-- OpenCV(in next update)
+- OpenCV(will be used in next update)
 
 
 <h2 id="started">🚀 Getting started</h2>
